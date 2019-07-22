@@ -20,8 +20,6 @@ wp_head(); //* we need this for plugins
 <!-- Body of the code here-->
 
 
-</body>
-
   <?php
 	wp_footer(); //* we need this for plugins
 	?>
